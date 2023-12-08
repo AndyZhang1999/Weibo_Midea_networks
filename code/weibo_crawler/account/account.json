@@ -1,0 +1,9 @@
+{
+  "cookies": [
+    "your cookies"
+  ],
+  "proxies": [
+    ["182.34.33.70", 9999]
+  ],
+  "test": ""
+}
