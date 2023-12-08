@@ -41,7 +41,8 @@ Features:
 
 - User Profiling: Tags users based on the clustering themes of their Weibo texts under **different topics**, progressively refining the user profile.
   
-  ![illustration](https://github.com/Faker-lz/Topic_and_user_profile_analysis_system/blob/master/doc/illustration/%E8%AF%9D%E9%A2%98%E5%86%85%E7%94%A8%E6%88%B7%E6%A0%87%E7%AD%BE%E5%8F%8A%E5%85%B7%E4%BD%93%E4%BC%A0%E6%92%AD%E5%85%B3%E7%B3%BB.png)
+![image](https://github.com/AndyZhang1999/Meida_network_via_weibo/assets/90740478/7763fd87-e38a-4f5a-922e-91f9619fb47b)
+
 
 ## Design
 
