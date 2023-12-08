@@ -1,4 +1,4 @@
-# weibo networks analysis
+# Capturing Weibo trending topics from 2021/12/14 to 2022/04/15
 
 ## Introduction
 
