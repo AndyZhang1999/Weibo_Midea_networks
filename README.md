@@ -20,7 +20,8 @@ Features:
   
   - Simplified Topic Propagation Graph: Represents the topic's spread using a directed graph.
   
-  ![illustration](https://github.com/Faker-lz/Topic_and_user_profile_analysis_system/blob/master/doc/illustration/%E8%AF%9D%E9%A2%98%E4%BB%BB%E5%8A%A1%E5%88%97%E8%A1%A8.png)
+  ![image](https://github.com/AndyZhang1999/Meida_network_via_weibo/assets/90740478/200d947e-90df-459c-b6e1-4ecaa8a1c462)
+
 
 - Blog Post Analysis: Detailed analysis of the top ten popular blog posts within a topic.
   
