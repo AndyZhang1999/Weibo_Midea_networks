@@ -1,4 +1,4 @@
-# Topic and user profile analysis system
+# weibo networks analysis
 
 ## 介绍
 
