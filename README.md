@@ -36,7 +36,8 @@ Features:
   
   - Blog Post Hot Forwarding: Displays content with high attention in forwarding.
   
-  ![illustration](https://github.com/Faker-lz/Topic_and_user_profile_analysis_system/blob/master/doc/illustration/%E5%8D%9A%E6%96%87%E8%AF%A6%E6%83%85.png)
+  ![image](https://github.com/AndyZhang1999/Meida_network_via_weibo/assets/90740478/77859f51-fe4f-4784-bc73-9b033b48d24a)
+
 
 - User Profiling: Tags users based on the clustering themes of their Weibo texts under **different topics**, progressively refining the user profile.
   
